@@ -5,7 +5,7 @@ class Revenant < Formula
   version "1.2.1"
 
   url "https://github.com/lobotomoe/revenant/releases/download/v#{version}/revenant-cli-macos-universal"
-  sha256 "f90aac1d187de4855e3c08d52f6283e72245a2fa821a7b534209e485be09d07d"
+  sha256 "50211231847a198fc755972966af9506a9f26a0a0e1f21bdc600cb0595ab8b2a"
 
   depends_on :macos
 
