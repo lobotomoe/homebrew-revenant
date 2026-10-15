@@ -2,10 +2,10 @@ class Revenant < Formula
   desc "Electronic document signing with ARX CoSign (SOAP/DSS)"
   homepage "https://github.com/lobotomoe/revenant"
   license "Apache-2.0"
-  version "4.1.0"
+  version "4.1.1"
 
   url "https://github.com/lobotomoe/revenant/releases/download/v#{version}/revenant-cli-macos-universal"
-  sha256 "88ff43f7328f7d0f29c23e5d6e656ac2dfcd72840470a6132ae774ccc9ccca30"
+  sha256 "ba91c7799725dfee0d79c54a69c792c535e2d2f403f4b939f35f3438cde89d00"
 
   depends_on :macos
 
